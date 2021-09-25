@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: by.dz.test.test_project.TestProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.039 s - in by.dz.test.test_project.TestProjectApplicationTests
